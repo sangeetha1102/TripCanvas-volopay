@@ -1,0 +1,6 @@
+{
+  "name": "TripCanvas",
+  "description": "Modern minimal travel planning app for managing trips and day-wise itineraries, connected to Supabase PostgreSQL and an MCP server.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
